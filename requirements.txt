@@ -1,0 +1,8 @@
+django>=5.1.7
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+django-filter
+python-dotenv
+psycopg>=3.2.5
+psycopg-binary>=3.2.5
